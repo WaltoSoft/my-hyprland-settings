@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=My Hyprland Settings
+Exec=com.waltosoft.my.hyprland.settings
+Icon=com.waltosoft.my.hyprland.settings
+Terminal=false
+Categories=Utility
+X-AppImage-Version=15.0
