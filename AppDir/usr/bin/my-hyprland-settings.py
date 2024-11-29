@@ -51,7 +51,7 @@ class MyApp(Adw.Application):
     win = Adw.ApplicationWindow() # Application Window
     path_name = pathname # Path of Application
     homeFolder = os.path.expanduser('~') # Path to home folder
-    configFolderName = "my-hyprland-settings" # config folder name
+    configFolderName = "my-hyrpland/settings/my-hyprland-settings" # config folder name
     configFolder = homeFolder + "/.config/" + configFolderName # Config folder name
     settingsFolder = "" # Settingsfolder
     hyprctlFile = "" # hyprctl.conf
